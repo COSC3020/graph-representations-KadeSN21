@@ -22,3 +22,5 @@ The runtime complexity of this implementation is $O(n^2)$ with n being the verti
 
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
+
+Help: ChatGPT and Stackoverflow.com
